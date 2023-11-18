@@ -1,6 +1,10 @@
 
 # HackerHelp: Pentesting and Security Script
 
+<p align="center">
+  <img src="hackerhelp_mascot.png" alt="HackerHelp Mascot">
+</p>
+
 ![Python Version](https://img.shields.io/badge/python-3.x-blue.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg) ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
 
 🛡️ *HackerHelp is a pentesting aid and learning tool for cybersecurity practices.*
